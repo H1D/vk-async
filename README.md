@@ -5,7 +5,7 @@
 jQuery 1.2.1+
 
 ###Usage
-Put script tags to the <head> of your page
+Put script tags to the &lt;head> of your page
 
 ```
 <script type="text/javascript" src='http://yandex.st/jquery/1.6.2/jquery.min.js'></script>
