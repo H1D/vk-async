@@ -1,6 +1,6 @@
 VK_async = new (function () {
     functions = [];
-    api_script_path = "http://userapi.com/js/api/openapi.js?31";
+    api_script_path = "http://userapi.com/js/api/openapi.js?48";
 
     this.ready = function (f){
         if(typeof(VK) === 'undefined') {
