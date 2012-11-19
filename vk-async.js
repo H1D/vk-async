@@ -11,7 +11,7 @@ VK_async = new (function () {
     };
 
     this.setAPIScriptPath = function(path) {
-        that.api_script_path = path;
+        api_script_path = path;
     }
 
     this.init = function() {
