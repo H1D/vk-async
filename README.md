@@ -22,11 +22,11 @@ VK_async.ready(function () {
 ```
 
 ###API
-By default (_http://userapi.com/js/api/openapi.js?31_) is used to load VK API. You can change URL like that:
+By default (_http://userapi.com/js/api/openapi.js?48_) is used to load VK API. You can change URL like that:
 
 ```
 <script type="text/javascript">
-   VK_async.setAPIScriptPath('http://userapi.com/js/api/openapi.js?32');
+   VK_async.setAPIScriptPath('http://userapi.com/js/api/openapi.js?49');
 </script>
 ```
 
